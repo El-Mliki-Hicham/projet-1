@@ -5,16 +5,21 @@ body{
     background-size: cover;
 }
 
+.right{
+
+float: right ;
+width:  66%;
+}
 
 h1 {
 color: brown;
-position: absolute;
-left: 450px;
-right: 200px;
+
+
 
 
 }
 img.hassan {
+    float: left ;
     width:  400px;
     height:  500px;
 
@@ -23,17 +28,19 @@ img.hassan {
 ul.list{
 
     color: rgb(0, 0, 0);
-    line-height: 50px;
+    line-height: 35px;
 font-size: 20px;
 list-style: none;
-position: absolute;
+
 left: 410px;
 right: 200px;
 top: 135px;
 
 border: 1px solid black ;
 margin-right: 200px;
-margin-left: 0px ;
+margin-left: 8px ;
+margin-bottom:10px ;
+padding: 15px;
 
 
 
@@ -44,8 +51,7 @@ img.maroc {
     width: 80px;
     height: 60px;
     left: 450px;
-    position: absolute;
-
+    
     top: 80px;
 }
 p {
@@ -55,4 +61,9 @@ font-size: 25px;
 h2 {
     font-size: 50px;
     color: green;
+}
+
+.para{
+ float: left;
+    width: 100%;
 }
