@@ -8,7 +8,7 @@ body{
 .right{
 
 float: right ;
-width:  66%;
+width:  70%;
 }
 
 h1 {
@@ -29,16 +29,13 @@ ul.list{
 
     color: rgb(0, 0, 0);
     line-height: 35px;
-font-size: 20px;
+font-size: 25px;
 list-style: none;
 
-left: 410px;
-right: 200px;
-top: 135px;
 
 border: 1px solid black ;
-margin-right: 200px;
-margin-left: 8px ;
+margin-right: 100px;
+
 margin-bottom:10px ;
 padding: 15px;
 
