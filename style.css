@@ -1,0 +1,53 @@
+
+
+
+
+
+
+
+
+
+
+body{
+    background-image: url("C:\Users\solicode\Desktop\a.png");
+}
+
+
+
+h1 {
+color: brown;
+position: absolute;
+left: 450px;
+right: 200px;
+
+
+}
+img.hassan {
+    width:  400px;
+    height:  500px;
+
+}                             
+
+ul.A{
+
+    color: rgb(0, 0, 0);
+    line-height: 50px;
+font-size: 20px;
+list-style: none;
+position: absolute;
+left: 410px;
+right: 200px;
+top: 110px;
+}
+
+img.maroc {
+
+    width: 80px;
+    height: 60px;
+    left: 450px;
+    position: absolute;
+
+    top: 80px;
+
+
+}
